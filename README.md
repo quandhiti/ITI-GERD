@@ -1,6 +1,6 @@
 # ITI-GERD
 ### Description
-The dataset involves 688 upper GI endoscopy images which mostly related to GERD disease.
+The dataset involves 688 Upper Gastrointestinal Endoscopy images which mostly related to Gastroesophageal Reflux disease.
 Abnormality areas (any lesion due to the impact of gastroesophageal reflux disease) in the images are localized and stored in "Masks" folder while the original images are stored in "Images" folder.
 
 ### License
