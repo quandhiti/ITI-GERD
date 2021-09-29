@@ -6,5 +6,6 @@ Abnormality areas (any lesion due to the impact of gastroesophageal reflux disea
 ### License
 The dataset is available for study, research and non-profit development purposes.
 If you use this dataset in your research, please consider citing:
+
 Hong-Quan Do, Thi-Ha Nguyen, Viet-Vu Vu, Thi-Mai Hoang, Hai-Minh Nguyen, T. Thuy-Duong Nguyen.  **Evaluation of U-Net and Its Variants in Solving Upper Gastrointestinal Endoscopy Segmentation**. Accepted in: The International Conference on Advanced Computing and Applications (ACOMP), 2021.
 	
