@@ -14,6 +14,6 @@ If you use this dataset in your research, please consider citing:
 	Year = {2021}
 	}
 
-<a id="1">[1]</a> 
-Hong-Quan Do, Thi-Ha Nguyen, Viet-Vu Vu, Thi-Mai Hoang, Hai-Minh Nguyen, T. Thuy-Duong Nguyen.  **Evaluation of U-Net and Its Variants in Solving Upper Gastrointestinal Endoscopy Segmentation**. Accepted in: The International Conference on Advanced Computing and Applications (ACOMP), 2021.
-	
+	<a id="1">[1]</a> 
+	Hong-Quan Do, Thi-Ha Nguyen, Viet-Vu Vu, Thi-Mai Hoang, Hai-Minh Nguyen, T. Thuy-Duong Nguyen.  **Evaluation of U-Net and Its Variants in Solving Upper Gastrointestinal Endoscopy Segmentation**. Accepted in: The International Conference on Advanced Computing and Applications (ACOMP), 2021.
+		
