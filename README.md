@@ -14,6 +14,6 @@ If you use this dataset in your research, please consider citing:
 	}
 	
 By downloading the ITI-GERD dataset, USER agrees:
-- to use ITI-GERD for research or educational purposes only.
+- to use ITI-GERD for study, research and non-profit development purposes only.
 - to not distribute ITI-GERD or part of ITI-GERD in any original or modified form.
 - and to cite our paper above whenever ITI-GERD is employed to help produce published results.
